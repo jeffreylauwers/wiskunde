@@ -10,14 +10,12 @@ Een veel voorkomende formule in de wiskunde is de lineaire formule, die eruitzie
 
 Een kwadratische formule is een formule met een letter, bijvoorbeeld x, in het kwadraat. Voorbeelden van kwadratische formules zijn:
 
-y = x2
-y = x2 + 5
-a = 3b2 + 5
+y = x-kwadraat of y = x-kwadraat + 5
 
 
 ## Het verschil
 
-Een lineaire formule heeft de algemene vorm y = ax + b en de grafiek is een rechte lijn. Een kwadratische formule heeft de algemene vorm y = ax^2 + bx + c en de grafiek is een parabool. Het belangrijkste verschil tussen deze formules is dat hun grafieken er anders uitzien.
+Een lineaire formule heeft de algemene vorm van y = ax + b en de grafiek is een rechte lijn. Een kwadratische formule heeft de algemene vorm van y = ax-kwadraat + b en de grafiek is een parabool. Het belangrijkste verschil tussen deze formules is dat hun grafieken er anders uitzien.
 
 
 ## Hoe teken je een lineaire formule in een grafiek?
