@@ -33,7 +33,7 @@ Een lineaire formule heeft de algemene vorm van y = ax + b en de grafiek is een 
 
 ## Hoe teken je een kwadratische formule in een grafiek?
 
-- Je neemt een kwadratische formule bijvoorbeeld y = x2 + 5
+- Je neemt een kwadratische formule bijvoorbeeld y = x-kwadraat + 5
 - Je maakt een tabel met 7 vakjes met x en y ervoor
 - Je rekent de formule uit en start met 0.
 - Vervolgens reken je 3 negatieve waardes en 3 positieve waardes voor x uit met even grote stappen. Bijvoorbeeld -1 en 1 of -3 en 3.
